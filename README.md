@@ -38,7 +38,7 @@ ecosystem:
 | Project         | Description                       |
 | --------------- | --------------------------------- |
 | Chat Management | Multi-platform customer messaging |
-| Facebook Tools  | Comment, inbox & order management |
+| Facebook Tools  | Scan data facebook & auto inbox   |
 | Mini ERP        | Lightweight business operations   |
 | POS System      | Offline-first sales management    |
 | Booking System  | Sports & service reservations     |
