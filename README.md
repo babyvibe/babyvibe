@@ -51,7 +51,7 @@
 
 | Repository / Product | Description | Status |
 | :--- | :--- | :--- |
-| **⚡ deplao-builder** | Zalo App for Multi-Account management, CRM, POS, ERP, Workflow and AI Assistant integration. | `🔥 Active` |
+| **⚡ deplao-builder** | Zalo App for Multi-Account management, CRM, Marketing, POS, ERP, Workflow and AI Assistant integration. | `🔥 Active` |
 | **🔍 facebook-scan-data-extension** | Chrome Extension for scanning, collecting, and exporting Facebook data efficiently. | `🔥 Active` |
 | **📩 facebook-fanpage-auto-inbox-extension** | Chrome Extension for automatically sending inbox messages to Facebook fanpage users. | `🛠️ Building` |
 
