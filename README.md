@@ -52,6 +52,7 @@
 | Repository / Product | Description | Status |
 | :--- | :--- | :--- |
 | **⚡ deplao-builder** | Zalo, Facebook, Telegram App for Multi-Account management, CRM, Marketing, POS, ERP, Workflow and AI Assistant integration. | `🔥 Active` |
+| ** 💰 fintrack-deplao-plugin** | A comprehensive FinTrack solution within Deplao - running on your own Cloudflare instance, featuring an AI assistant, multi-account support, and the ability to log expenses directly from conversation groups. | `🔥 Active` |
 | **🔍 facebook-scan-data-extension** | Chrome Extension for scanning, collecting, and exporting Facebook data efficiently. | `🔥 Active` |
 | **📩 moonlink-affliate-shopee** | Convert Shopee product links into affiliate links in seconds, and instantly see how much cashback you'll earn. | `🔥 Active` |
 | **📩 facebook-fanpage-auto-inbox-extension** | Chrome Extension for automatically sending inbox messages to Facebook fanpage users. | `🛠️ Building` |
